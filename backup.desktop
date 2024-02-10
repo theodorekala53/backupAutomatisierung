@@ -1,0 +1,5 @@
+[Desktop Entry]
+Name=Backup Script
+Exec=/home/student/Dokumente/backup/backup.py
+Type=Application
+Terminal=true
